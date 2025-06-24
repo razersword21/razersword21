@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m learning python, AI, NLP, JAVA
+- 🔭 I’m currently working on JAVA
